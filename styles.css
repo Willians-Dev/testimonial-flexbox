@@ -24,20 +24,21 @@ img {
     display: flex;
     float: right;
     width: 30%; 
+    background-color: #ecf2f8;
 }
 
 .container-top {
     display: flex;
-    background-color: #cfcfcf;
+    background-color: #cfcfcf
 }
 
 .container-bot {
     display: flex;
+    background-color: #cfcfcf;
 }
 
 .container-left {
-    display: flex;
-    
+    display: flex;   
 }
 
 .item-1 {
